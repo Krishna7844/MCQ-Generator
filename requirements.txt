@@ -1,5 +1,11 @@
 openai
 langchain
 streamlit
-python -dotenv
+python-dotenv
 PyPDF2
+pandas
+langchain-google-genai
+google-genai
+langchain-community
+
+# -e .

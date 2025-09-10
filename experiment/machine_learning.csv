@@ -1,0 +1,11 @@
+MCQ,Choices,Correct
+"What is Machine Learning primarily concerned with, according to the text?",a: Developing explicit instructions for specific tasks. | b: Studying the history of artificial intelligence. | c: Developing and studying statistical algorithms that learn from data. | d: Creating physical robots to perform manual labor.,c
+Which subdiscipline within machine learning has significantly boosted the performance of neural networks?,a: Predictive analytics | b: Data mining | c: Deep learning | d: Exploratory data analysis,c
+Neural networks are identified as a class of what type of algorithms?,a: Explicit instructions | b: Statistical algorithms | c: Business problems | d: Theoretical frameworks,b
+Which of the following is NOT listed as an application field for Machine Learning in the text?,a: Computer vision | b: Speech recognition | c: Web design | d: Agriculture,c
+What is the application of Machine Learning to business problems specifically known as?,a: Data mining | b: Predictive analytics | c: Statistical modeling | d: Mathematical programming,b
+Which two methods comprise the foundations of machine learning?,a: Natural language processing and computer vision | b: Statistics and mathematical optimization | c: Deep learning and neural networks | d: Exploratory data analysis and unsupervised learning,b
+Data mining is a related field focusing on exploratory data analysis (EDA) through what type of learning?,a: Supervised learning | b: Reinforcement learning | c: Unsupervised learning | d: Transfer learning,c
+"What ability do machine learning algorithms possess regarding tasks, according to the text?",a: They require explicit instructions for every task. | b: They can only perform tasks in a controlled environment. | c: They can perform tasks without explicit instructions. | d: They are limited to simple arithmetic tasks.,c
+"From a theoretical viewpoint, what framework helps describe machine learning?",a: Mathematical programming | b: Probably approximately correct learning | c: Deep learning architecture | d: Artificial general intelligence,b
+Machine learning is defined as a field of study within which broader area?,a: Statistics | b: Data mining | c: Artificial intelligence | d: Mathematical optimization,c
