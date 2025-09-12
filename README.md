@@ -24,3 +24,7 @@ Open the file named as StreamlitAPP.py and the type the command in the terminal-
 **HOW TO MODIFY YOUR MCQ GENERATOR MODEL**
  
 Go to the file MCQGenertor.py which is inside the "src/mcqgenerator" folder and there you can change your prompt according to your need.
+
+
+
+ENJOY ;).....
